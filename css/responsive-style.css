@@ -1,0 +1,10 @@
+@media (max-width:1199.5px){
+    .card{
+        padding: 2.5rem 1.875rem;
+    }
+}
+@media (max-width:991px){
+    .wrapper{
+        padding: 3.125rem 0;
+    }
+}
